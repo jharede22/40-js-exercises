@@ -1,2 +1,2 @@
-# 40 js exercises
- just to pratice
+# js 
+alguns exercicios para praticar
